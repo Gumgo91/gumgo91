@@ -7,7 +7,7 @@ I can do everything others can do, such as Python, Tensorflow, Pytorch.
 ## 💬 Interesting things about me (TMI)
 - MBTI: ENTP
 - The most Favorite character: [Bulbasaur](https://bulbapedia.bulbagarden.net/wiki/Bulbasaur_(Pok%C3%A9mon))
-- I have a LinkedIn, [here](https://www.linkedin.com/in/hyunseungkong/)
+- I have a [LinkedIn](https://www.linkedin.com/in/hyunseungkong/).
 - I used to run a science [YouTube channel](https://www.youtube.com/channel/UCS6vpz1902N-tk7QaYTjNPg). However, I posted only two videos and lost all interest. 
 
 
