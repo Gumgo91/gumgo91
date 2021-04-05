@@ -4,11 +4,16 @@ My research interest lies in AI driven drug development and graph neural network
 
 I can do everything others can do, such as Python, Tensorflow, Pytorch.
 
-## 💬 Interesting things about me (TMI)
+## 💬 Interesting things about me
 - MBTI: ENTP
 - The most Favorite character: [Bulbasaur](https://bulbapedia.bulbagarden.net/wiki/Bulbasaur_(Pok%C3%A9mon))
 - I have a [LinkedIn](https://www.linkedin.com/in/hyunseungkong/).
 - I used to run a science [YouTube channel](https://www.youtube.com/channel/UCS6vpz1902N-tk7QaYTjNPg). However, I posted only two videos and lost all interest. 
+
+## 🤔 My Motivations
+- Inspiration
+- Curiosity
+- Someone specifically telling me not to do
 
 
 <!--
