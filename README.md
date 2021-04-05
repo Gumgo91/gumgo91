@@ -2,7 +2,7 @@ Hi! I'm Hyunseung Kong 👋
 
 My research interest lies in AI driven drug development and graph neural network.✨
 
-I can do everything others do, such as Python, Tensorflow, pytorch.
+I can do everything others can do, such as Python, Tensorflow, Pytorch.
 
 ## 💬 Interesting things about me (TMI)
 - MBTI: ENTP
