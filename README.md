@@ -2,6 +2,14 @@ Hi! I'm Hyunseung Kong 👋
 
 My research interest lies in AI driven drug development and graph neural network.✨
 
+I can do everything others do, such as Python, Tensorflow, pytorch.
+
+## 💬 Interesting things about me (TMI)
+- MBTI: ENTP
+- The most Favorite character: [Bulbasaur](https://bulbapedia.bulbagarden.net/wiki/Bulbasaur_(Pok%C3%A9mon))
+- I have a LinkedIn, [here](https://www.linkedin.com/in/hyunseungkong/)
+- I used to run a science [YouTube channel](https://www.youtube.com/channel/UCS6vpz1902N-tk7QaYTjNPg). However, I posted only two videos and lost all interest. 
+
 
 <!--
 **Gumgo91/gumgo91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
