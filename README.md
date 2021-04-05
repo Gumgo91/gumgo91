@@ -1,4 +1,7 @@
-### Hi there 👋
+Hi! I'm Hyunseung Kong 👋
+
+My research interest lies in AI driven drug development and graph neural network.✨
+
 
 <!--
 **Gumgo91/gumgo91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
