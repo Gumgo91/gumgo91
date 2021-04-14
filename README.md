@@ -7,7 +7,7 @@ I can do everything others can do, such as Python, Tensorflow, Pytorch.
 ## 💬 Interesting things about me
 - The most Favorite character: [Bulbasaur](https://bulbapedia.bulbagarden.net/wiki/Bulbasaur_(Pok%C3%A9mon))
 - [Here](https://www.linkedin.com/in/hyunseungkong/) is my LinkedIn account.
-- I used to run a science [YouTube channel](https://www.youtube.com/channel/UCS6vpz1902N-tk7QaYTjNPg). However, I posted only two videos and lost all interest. 
+- I used to run a scientific [YouTube channel](https://www.youtube.com/channel/UCS6vpz1902N-tk7QaYTjNPg). However, I posted only two videos and lost all interest. 
 
 
 ## 😄 My Motivations
