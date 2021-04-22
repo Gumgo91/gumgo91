@@ -1,6 +1,6 @@
 Hi! I'm Hyunseung Kong 👋
 
-My research interest lies in AI driven drug development and graph neural network.✨
+My research interest lies in AI driven drug development.✨
 
 I can do everything others can do, such as Python, Tensorflow, Pytorch.
 
